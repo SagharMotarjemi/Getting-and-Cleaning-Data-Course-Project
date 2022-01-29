@@ -1,9 +1,3 @@
-getwd()
-path <- setwd("/Users/ramin/Desktop/Get&CleD")
-
-# Code --------------------------------------------------------------------
-
-
 ### Loading the required library
 library(dplyr)
 library(data.table)
